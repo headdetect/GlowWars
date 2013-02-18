@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glow Wars</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dev_mode">Playing in DEV_MODE</string>
+    <string name="play_game">Start (Easy)</string>
+
+</resources>
